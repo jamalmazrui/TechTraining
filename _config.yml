@@ -1,0 +1,8 @@
+title: Technology Training for Accessibility
+description: Technology Training for Accessibility
+author: JamalMazrui
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..3
