@@ -1,0 +1,8 @@
+title: Tech Training
+description: A Directory of Free Video and Audio Presentations Teaching Topics on Technology and Accessibility
+author: JamalMazrui
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..3
