@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tech Training
 subtitle: A Directory of Free Video and Audio Presentations Teaching Topics on Technology and Accessibility
 license: "CC BY-SA 4.0"
