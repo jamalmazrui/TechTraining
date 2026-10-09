@@ -5,8 +5,6 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
-# Tech Training
-
 ## Introduction
 
 Tech Training is a free directory of audiovisual presentations for learning about technology and accessibility. Some people prefer to learn technology from demonstrations, webinars, podcasts, and other audio or video presentations rather than from electronic text alone; that preference inspired this project. Extensive collaboration between **Jamal Mazrui and ChatGPT** was used to search public sources, review and organize candidates, remove duplicates and material that was mainly promotional or noninstructional, and assemble the strongest results into one directory.
