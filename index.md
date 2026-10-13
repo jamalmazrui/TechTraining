@@ -1,6 +1,6 @@
 ---
 title: Tech Training
-subtitle: A Directory of Free Video and Audio Presentations Teaching Topics on Technology and Accessibility
+subtitle: "A Directory of 1,167 Free Video and Audio Presentations Teaching Topics on Technology and Access"
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
@@ -9,7 +9,9 @@ license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 Tech Training is a free directory of audiovisual presentations for learning about technology and accessibility. Some people prefer to learn technology from demonstrations, webinars, podcasts, and other audio or video presentations rather than from electronic text alone; that preference inspired this project. Extensive collaboration between **Jamal Mazrui and ChatGPT** was used to search public sources, review and organize candidates, remove duplicates and material that was mainly promotional or noninstructional, and assemble the strongest results into one directory.
 
-The current release, dated 12 October 2026, contains **1166 unique presentations in 20 topic categories**. A presentation title links directly to the audio or video file, or to the actual free public presentation on a media host such as YouTube; none required a sign-in when the directory was assembled. Entries with a known year are from 2016 or later. For 151 entries the year could not be confirmed, and their titles say "Year unknown" in its place.
+The current release, dated 12 October 2026, contains **1167 unique presentations in 20 topic categories**. A presentation title links directly to the audio or video file, or to the actual free public presentation on a media host such as YouTube; none required a sign-in when the directory was assembled. Entries with a known year are from 2016 or later. For 151 entries the year could not be confirmed, and their titles say "Year unknown" in its place.
+
+The directory also comes as TechTraining, a database included with [DbDo](https://github.com/JamalMazrui/DbDo), a free database program designed for screen reader users. There, one key plays a presentation, several can be marked and played as a list, and the presentations can be sorted by length or filtered by topic.
 
 Each presentation belongs to its publisher. This directory's own text and arrangement are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -20,7 +22,7 @@ In this directory, a **source** is the person, organization, project, or publish
 - Accessible World (19)
 - Adobe (11)
 - American Foundation for the Blind (2)
-- American Printing House for the Blind (58)
+- American Printing House for the Blind (59)
 - AppleVis (383)
 - AT3 Center (12)
 - Blind Abilities (139)
@@ -49,11 +51,12 @@ The purpose of Tech Training is to make useful technology and accessibility inst
 
 ## Table of Contents
 
+- [By the Numbers](#by-the-numbers)
 - [Accessible Documents and PDFs (190)](#accessible-documents-and-pdfs)
 - [AI and Visual Assistance (13)](#ai-and-visual-assistance)
 - [Android and ChromeOS (10)](#android-and-chromeos)
 - [Apple Watch, TV, HomePod, and AirPods (39)](#apple-watch-tv-homepod-and-airpods)
-- [Assistive Technology Devices (17)](#assistive-technology-devices)
+- [Assistive Technology Devices (18)](#assistive-technology-devices)
 - [Audio, Music, and Recording (70)](#audio-music-and-recording)
 - [Braille, Reading, and OCR (49)](#braille-reading-and-ocr)
 - [Gaming Accessibility (34)](#gaming-accessibility)
@@ -75,6 +78,12 @@ The purpose of Tech Training is to make useful technology and accessibility inst
 - [Appendix C: Presentations by Presenter](#appendix-c-presentations-by-presenter)
 - [Appendix D: Presentations by Series](#appendix-d-presentations-by-series)
 - [Appendix E: Presentations by Title](#appendix-e-presentations-by-title)
+
+## By the Numbers {#by-the-numbers}
+
+- 1,167 presentations; the largest category is iPhone and iPad: Apps and Everyday Tasks, with 256 (22%).
+- Of the 750 with a known length, half run 12 minutes or less.
+- The largest source is AppleVis, with 383 presentations.
 
 ## Accessible Documents and PDFs (190) {#accessible-documents-and-pdfs}
 
@@ -1748,7 +1757,7 @@ Training on accessibility features and accessible use of Apple Watch, Apple TV, 
 
 **Source:** [AppleVis](https://applevis.com/podcasts/walkthrough-sleep-cycle-alarm-clock-ios)
 
-## Assistive Technology Devices (17) {#assistive-technology-devices}
+## Assistive Technology Devices (18) {#assistive-technology-devices}
 
 Training on specialized assistive technology hardware and software that supports access, communication, independence, or productivity.
 
@@ -1843,6 +1852,16 @@ Training on specialized assistive technology hardware and software that supports
 **Length:** 27 min
 
 **Source:** [AppleVis](https://www.applevis.com/podcasts/review-ray-ban-meta-smart-glasses)
+
+### [Road to the National Coding Symposium 2026: BT Code (2026)](https://www.youtube.com/watch?v=amMff5fXODc) {#presentation-road-to-the-national-coding-symposium-2026-bt-code-2026}
+
+**Description:** BT Code, the Python learning and development environment built into BT Speak and BT Braille: guided lessons, games and audio activities with an AI coding assistant, a braille-first editor for building real projects, and the Code Store for sharing them.
+
+**Length:** 56 min
+
+**Presenter:** Dr. Stephen Blazie
+
+**Source:** [American Printing House for the Blind](https://www.aph.org/webinars/)
 
 ### [Setting Tones on the BlindShell Classic 2 (2022)](https://support.atguys.com/hc/en-us/article_attachments/6341743456532) {#presentation-setting-tones-on-the-blindshell-classic-2-2022}
 
@@ -8846,6 +8865,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [Navigating DAISY Files on Your eReader](#presentation-navigating-daisy-files-on-your-ereader-2026)
 - [NVDA Coach: from First Keystroke to Confidence---A Free Tool Changing How NVDA Is Learned](#presentation-nvda-coach-from-first-keystroke-to-confidence-a-free-tool-changing-how-nvda-is-learned-2026)
 - [Research Reimagined: Mastering Google's NotebookLM with JAWS](#presentation-research-reimagined-mastering-google-s-notebooklm-with-jaws-2026)
+- [Road to the National Coding Symposium 2026: BT Code](#presentation-road-to-the-national-coding-symposium-2026-bt-code-2026)
 - [Set up your workspace for accessible PDFs](#presentation-set-up-your-workspace-for-accessible-pdfs-2026)
 - [Signing Up For The My Talking Book Skill On Alexa Post Beta](#presentation-signing-up-for-the-my-talking-book-skill-on-alexa-post-beta-2026)
 - [Six Tips for Managing Complex Documents with JAWS](#presentation-six-tips-for-managing-complex-documents-with-jaws-2026)
@@ -10383,6 +10403,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [Play, Learn, Braille: A Family’s Guide to Polly (2025)](#presentation-play-learn-braille-a-family-s-guide-to-polly-2025)
 - [Polly: Learning Braille has Never Been More Fun! (2024)](#presentation-polly-learning-braille-has-never-been-more-fun-2024)
 - [Prevent Document Frustration: JAWS and PDFs (2021)](#presentation-prevent-document-frustration-jaws-and-pdfs-2021)
+- [Road to the National Coding Symposium 2026: BT Code (2026)](#presentation-road-to-the-national-coding-symposium-2026-bt-code-2026)
 - [Supporting Braille Literacy with Braille Brain: Advanced, Technical and Application (2026)](#presentation-supporting-braille-literacy-with-braille-brain-advanced-technical-and-application-2026)
 - [Training the Trainer: Where to start when teaching JAWS (2022)](#presentation-training-the-trainer-where-to-start-when-teaching-jaws-2022)
 - [Triple Threat: JAWS + ZoomText = Fusion (2021)](#presentation-triple-threat-jaws-zoomtext-fusion-2021)
@@ -11296,6 +11317,8 @@ Instructional technology and accessibility presentations that meet the directory
 
 - [Tek Talk Welcomes Deane Blazie, David Goldfield, and Stephen Clower to Discuss the BT Speak, a Pocket Computer for the Blind with a Braille Keyboard and Speech Output by Blazie Technologies (2024)](#presentation-tek-talk-welcomes-deane-blazie-david-goldfield-and-stephen-clower-to-discuss-the-bt-speak-a-pocket-computer-for-the-blind-with-a-braille-keyboard-and-speech-output-by-blazie-technologies-2024)
 
+### Dr. Stephen Blazie
+- [Road to the National Coding Symposium 2026: BT Code (2026)](#presentation-road-to-the-national-coding-symposium-2026-bt-code-2026)
 ### Elizabeth Whitaker
 
 - [JAWS Settings Center (2021)](#presentation-jaws-settings-center-2021)
@@ -12502,6 +12525,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [The ReVision Fitness App: Let's Change the Way We Look at It! Tyler Merren's New App Is Ready for Your Workout! (2022)](#presentation-the-revision-fitness-app-let-s-change-the-way-we-look-at-it-tyler-merren-s-new-app-is-ready-for-your-workout-2022)
 - [Revisiting: How to Enable Wi-Fi Calling on Your iPhone (2021)](#presentation-revisiting-how-to-enable-wi-fi-calling-on-your-iphone-2021)
 - [Revisiting: How to Use Back Tap on iOS (2021)](#presentation-revisiting-how-to-use-back-tap-on-ios-2021)
+- [Road to the National Coding Symposium 2026: BT Code (2026)](#presentation-road-to-the-national-coding-symposium-2026-bt-code-2026)
 - [RODECaster Pro II Accessibility Walkthrough (Episode 28) (2022)](#presentation-rodecaster-pro-ii-accessibility-walkthrough-episode-28-2022)
 - [Save as a Word Document (.docx) with a Descriptive Filename (Module 1) (Year unknown)](#presentation-save-as-a-word-document-docx-with-a-descriptive-filename-module-1-year-unknown)
 - [Saving in the .pptx Format with a Descriptive Filename (Module 13) (Year unknown)](#presentation-saving-in-the-pptx-format-with-a-descriptive-filename-module-13-year-unknown)
