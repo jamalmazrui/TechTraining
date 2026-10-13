@@ -9,7 +9,7 @@ license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 Tech Training is a free directory of audiovisual presentations for learning about technology and accessibility. Some people prefer to learn technology from demonstrations, webinars, podcasts, and other audio or video presentations rather than from electronic text alone; that preference inspired this project. Extensive collaboration between **Jamal Mazrui and ChatGPT** was used to search public sources, review and organize candidates, remove duplicates and material that was mainly promotional or noninstructional, and assemble the strongest results into one directory.
 
-The current release contains **1166 unique presentations in 20 topic categories**. A presentation title links directly to the audio or video file, or to the actual free public presentation on a media host such as YouTube. No sign-in is required. Entries are limited to 2016 or later.
+The current release, dated 12 October 2026, contains **1166 unique presentations in 20 topic categories**. A presentation title links directly to the audio or video file, or to the actual free public presentation on a media host such as YouTube; none required a sign-in when the directory was assembled. Entries with a known year are from 2016 or later. For 151 entries the year could not be confirmed, and their titles say "Year unknown" in its place.
 
 Each presentation belongs to its publisher. This directory's own text and arrangement are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -98,9 +98,11 @@ Training on creating, remediating, testing, and using accessible PDFs and other 
 
 **Source:** [The Accessibility Guy](https://theaccessibilityguy.com/4-ways-to-tag-a-pdf-using-adobe-acrobat-pro-dc/)
 
-### [Accessible Documents (Part 2: Presentations) (2019)](https://www.youtube.com/watch?v=SpCiyr9ZyEM) {#presentation-accessible-documents-part-2-presentations-2019}
+### [Accessible Documents (Part 2: Presentations) (2024)](https://www.youtube.com/watch?v=SpCiyr9ZyEM) {#presentation-accessible-documents-part-2-presentations-2019}
 
 **Description:** The following archived presentation was part of the Accessible Technology Webinar Series at the University of Washington.
+
+**Presenter:** Gaby de Jongh
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20241106/)
 
@@ -170,7 +172,9 @@ Training on creating, remediating, testing, and using accessible PDFs and other 
 
 **Source:** [The Accessibility Guy](https://theaccessibilityguy.com/the-alt-media-files-accommodations-for-students-episode-3/)
 
-### [Alternatives to PDF (2019)](https://www.youtube.com/watch?v=8UWybvgkMf0) {#presentation-alternatives-to-pdf-2019}
+### [Alternatives to PDF (2021)](https://www.youtube.com/watch?v=8UWybvgkMf0) {#presentation-alternatives-to-pdf-2019}
+
+**Presenter(s):** Dan Comden, Gaby de Jongh, and Terrill Thompson
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20210624/)
 
@@ -296,7 +300,9 @@ Training on creating, remediating, testing, and using accessible PDFs and other 
 
 **Source:** [U.S. General Services Administration](https://www.section508.gov/training/documents/aed-cop-docx07/)
 
-### [Creating Accessible Documents and Slides: Microsoft, Google, and Canva (2019)](https://www.youtube.com/watch?v=pQZQ0ehzgB0) {#presentation-creating-accessible-documents-and-slides-microsoft-google-and-canva-2019}
+### [Creating Accessible Documents and Slides: Microsoft, Google, and Canva (2025)](https://www.youtube.com/watch?v=pQZQ0ehzgB0) {#presentation-creating-accessible-documents-and-slides-microsoft-google-and-canva-2019}
+
+**Presenter(s):** Terrill Thompson, Gaby de Jongh, and Alaina Foust
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/webaim2025/)
 
@@ -7632,6 +7638,8 @@ Training on screen readers, screen magnifiers, and related techniques for nonvis
 
 **Description:** The following archived presentation was part of the Accessible Technology Webinar Series at the University of Washington.
 
+**Presenter:** Hadi Rangin
+
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20240911/)
 
 ### [Training the Trainer: Where to start when teaching JAWS (2022)](https://www.youtube.com/watch?v=jYfrv6SlnSA) {#presentation-training-the-trainer-where-to-start-when-teaching-jaws-2022}
@@ -7949,7 +7957,9 @@ Training on general computer skills, productivity tools, common applications, an
 
 Training on designing, developing, testing, and maintaining accessible websites, web applications, and digital content.
 
-### [5 Things YOU can do NOW to Make Web Content More Accessible (2019)](https://www.youtube.com/watch?v=wd87EmIa5eE) {#presentation-5-things-you-can-do-now-to-make-web-content-more-accessible-2019}
+### [5 Things YOU can do NOW to Make Web Content More Accessible (2023)](https://www.youtube.com/watch?v=wd87EmIa5eE) {#presentation-5-things-you-can-do-now-to-make-web-content-more-accessible-2019}
+
+**Presenter:** Anna Marie Golden
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20230208/)
 
@@ -8079,7 +8089,9 @@ Training on designing, developing, testing, and maintaining accessible websites,
 
 **Source:** [National Federation of the Blind](https://www.youtube.com/@NationsBlind)
 
-### [DubBot Web Accessibility Training (2019)](https://www.youtube.com/watch?v=ebXxvzgOGuM) {#presentation-dubbot-web-accessibility-training-2019}
+### [DubBot Web Accessibility Training (2025)](https://www.youtube.com/watch?v=ebXxvzgOGuM) {#presentation-dubbot-web-accessibility-training-2019}
+
+**Presenter:** Penny Kronz
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20250211/)
 
@@ -8279,6 +8291,8 @@ Training on designing, developing, testing, and maintaining accessible websites,
 
 ### [Web Accessibility (Accessible University July 2024 edition) (2024)](https://www.youtube.com/watch?v=P8tUFP2o4oc) {#presentation-web-accessibility-accessible-university-july-2024-edition-2024}
 
+**Presenter:** Terrill Thompson
+
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20240710/)
 
 ### [Web Accessibility Perspectives: Colors with Good Contrast (2019)](https://www.w3.org/WAI/perspective-videos/contrast/) {#presentation-web-accessibility-perspectives-colors-with-good-contrast-2019}
@@ -8323,7 +8337,9 @@ Training on designing, developing, testing, and maintaining accessible websites,
 
 **Source:** [World Wide Web Consortium](https://www.w3.org/WAI/perspective-videos/)
 
-### [Web Accessibility Tools (2019)](https://www.youtube.com/watch?v=Kjp-ZQxmTUU) {#presentation-web-accessibility-tools-2019}
+### [Web Accessibility Tools (2022)](https://www.youtube.com/watch?v=Kjp-ZQxmTUU) {#presentation-web-accessibility-tools-2019}
+
+**Presenter(s):** Terrill Thompson and Anna Marie Golden
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20220217/)
 
@@ -8416,6 +8432,8 @@ Instructional technology and accessibility presentations that meet the directory
 **Source:** [The Accessibility Guy](https://theaccessibilityguy.com/converting-png-images-to-editable-documents-with-abbyy-finereader-16/)
 
 ### [Data Viz Accessibility (2021)](https://www.youtube.com/watch?v=rylc2gHRXao) {#presentation-data-viz-accessibility-2021}
+
+**Presenter(s):** Hadi Rangin, Terrill Thompson, and Kelly Gupton
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20210329/)
 
@@ -8669,7 +8687,9 @@ Instructional technology and accessibility presentations that meet the directory
 
 **Source:** [U.S. General Services Administration](https://www.section508.gov/training/spreadsheets/aed-cop-xlsx10/)
 
-### [Starting an Accessibility Journey: 5 Easy Tips (2019)](https://www.youtube.com/watch?v=aRf9SARpJkk) {#presentation-starting-an-accessibility-journey-5-easy-tips-2019}
+### [Starting an Accessibility Journey: 5 Easy Tips (2025)](https://www.youtube.com/watch?v=aRf9SARpJkk) {#presentation-starting-an-accessibility-journey-5-easy-tips-2019}
+
+**Presenter:** Mary-Colleen Jenkins
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/5-tips/)
 
@@ -8694,6 +8714,8 @@ Instructional technology and accessibility presentations that meet the directory
 **Source:** [The Accessibility Guy](https://theaccessibilityguy.com/table-header-cell-has-no-associated-sub-cells/)
 
 ### [Teaching an Accessible Online Course, July 2022 Edition (2022)](https://www.youtube.com/watch?v=ibft_P-Kg2g) {#presentation-teaching-an-accessible-online-course-july-2022-edition-2022}
+
+**Presenter:** Sheryl Burgstahler
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20220721/)
 
@@ -8756,6 +8778,8 @@ Instructional technology and accessibility presentations that meet the directory
 **Source:** [National Library Service for the Blind and Print Disabled](https://www.loc.gov/nls/news-and-updates/many-faces-of-bard/)
 
 ### [Video Accessibility, August 2024 (2024)](https://www.youtube.com/watch?v=0Q3v3PFpnOo) {#presentation-video-accessibility-august-2024-2024}
+
+**Presenter(s):** Gaby de Jongh and Terrill Thompson
 
 **Source:** [University of Washington](https://www.washington.edu/accesstech/training/webinars/web20240814/)
 
@@ -8849,15 +8873,18 @@ Instructional technology and accessibility presentations that meet the directory
 - [3 Ways to Enhance PDF Accessibility with AI](#presentation-3-ways-to-enhance-pdf-accessibility-with-ai-2025)
 - [4 Ways to Tag a PDF Using Adobe Acrobat Pro DC](#presentation-4-ways-to-tag-a-pdf-using-adobe-acrobat-pro-dc-2025)
 - [5 PDF Accessibility Pro Tips \| Adobe Acrobat](#presentation-5-pdf-accessibility-pro-tips-adobe-acrobat-2025)
+- [A Demonstration and Walkthrough of Multi-User Support on macOS](#presentation-a-demonstration-and-walkthrough-of-multi-user-support-on-macos-2025)
+- [A Demonstration of Screen Sharing with VoiceOver on macOS](#presentation-a-demonstration-of-screen-sharing-with-voiceover-on-macos-2025)
+- [A Look into Alfred for Mac: Part 1 Overview of Alfred's Features and Functionalities](#presentation-a-look-into-alfred-for-mac-part-1-overview-of-alfred-s-features-and-functionalities-2025)
+- [A Look into Alfred for Mac: Part 2 Guide to the Settings Window and Overall Settings](#presentation-a-look-into-alfred-for-mac-part-2-guide-to-the-settings-window-and-overall-settings-2025)
+- [A Look into Alfred for Mac: Part 3 How to Clear the Trash, Reboot the Computer, and Perform Other Tasks Using Alfred Keywords](#presentation-a-look-into-alfred-for-mac-part-3-how-to-clear-the-trash-reboot-the-computer-and-perform-other-tasks-using-alfred-keywords-2025)
+- [A Look into Alfred for Mac: Part 4 Power User Tips for System Control & Clipboard Magic](#presentation-a-look-into-alfred-for-mac-part-4-power-user-tips-for-system-control-clipboard-magic-2025)
 - [Accessibility First: How to choose the right phone or computer](#presentation-accessibility-first-how-to-choose-the-right-phone-or-computer-2025)
 - [Accessibility Testing Demonstrations (Part 4)](#presentation-accessibility-testing-demonstrations-part-4-2025)
 - [Accessible PDF Forms Made Easy \| Word to PDF](#presentation-accessible-pdf-forms-made-easy-word-to-pdf-2025)
 - [ADA Title II 2024 Rule: PDF Accessibility Requirements for U.S. Government Websites](#presentation-ada-title-ii-2024-rule-pdf-accessibility-requirements-for-u-s-government-websites-2025)
 - [Advanced PDF Tagging Techniques: Forms](#presentation-advanced-pdf-tagging-techniques-forms-2025)
 - [AI apps for everyday accessibility. 25-Feb-2025](#presentation-ai-apps-for-everyday-accessibility-25-feb-2025-2025)
-- [The Alt Media Files \| Accommodations for Students \| Episode 1](#presentation-the-alt-media-files-accommodations-for-students-episode-1-2025)
-- [The Alt Media Files \| Accommodations for Students \| Episode 2](#presentation-the-alt-media-files-accommodations-for-students-episode-2-2025)
-- [The Alt Media Files \| Accommodations for Students \| Episode 3](#presentation-the-alt-media-files-accommodations-for-students-episode-3-2025)
 - [Analyzing Data When You Are Blind or Have Low Vision](#presentation-analyzing-data-when-you-are-blind-or-have-low-vision-2025)
 - [AppleVis Extra #112: Stephen Lovely on Rethinking Visual Accessibility with Vision AI Assistant](#presentation-applevis-extra-112-stephen-lovely-on-rethinking-visual-accessibility-with-vision-ai-assistant-2025)
 - [BARD 2.0 Tips and Tricks to Improve Your Experience](#presentation-bard-2-0-tips-and-tricks-to-improve-your-experience-2025)
@@ -8869,17 +8896,16 @@ Instructional technology and accessibility presentations that meet the directory
 - [Compact Vs Classic: Choosing Your Safari Tab Style](#presentation-compact-vs-classic-choosing-your-safari-tab-style-2025)
 - [Convert PowerPoint to PDF and Maintain Document Structure](#presentation-convert-powerpoint-to-pdf-and-maintain-document-structure-2025)
 - [Create Your Own Accessible Smart Home](#presentation-create-your-own-accessible-smart-home-2025)
+- [Creating Accessible Documents and Slides: Microsoft, Google, and Canva](#presentation-creating-accessible-documents-and-slides-microsoft-google-and-canva-2019)
 - [Creating Accessible Math Content in Canvas LMS](#presentation-creating-accessible-math-content-in-canvas-lms-2025)
-- [A Demonstration and Walkthrough of Multi-User Support on macOS](#presentation-a-demonstration-and-walkthrough-of-multi-user-support-on-macos-2025)
-- [A Demonstration of Screen Sharing with VoiceOver on macOS](#presentation-a-demonstration-of-screen-sharing-with-voiceover-on-macos-2025)
 - [Digital Accessibility and Equivalent Access Requirements (Part 1)](#presentation-digital-accessibility-and-equivalent-access-requirements-part-1-2025)
 - [Digitize Your Braille Writer: Introducing Paige Connect](#presentation-digitize-your-braille-writer-introducing-paige-connect-2025)
 - [Document Accessibility Boutique](#presentation-document-accessibility-boutique-2025)
+- [DubBot Web Accessibility Training](#presentation-dubbot-web-accessibility-training-2019)
 - [Duxbury Braille Translator: Getting Good at Editing](#presentation-duxbury-braille-translator-getting-good-at-editing-2025)
 - [Duxbury Braille Translator: Macros and Math](#presentation-duxbury-braille-translator-macros-and-math-2025)
 - [Duxbury Braille Translator: My First Document](#presentation-duxbury-braille-translator-my-first-document-2025)
 - [Duxbury Braille Translator: Working in an Existing Document and Using Microsoft Word](#presentation-duxbury-braille-translator-working-in-an-existing-document-and-using-microsoft-word-2025)
-- [The European Accessibility Act and PDFs](#presentation-the-european-accessibility-act-and-pdfs-2025)
 - [Everyday Use Examples](#presentation-everyday-use-examples-2025)
 - [Everyday Use Examples Part 2](#presentation-everyday-use-examples-part-2-2025)
 - [Experience New macOS Beta Software with Confidence: Dual Boot macOS and Run Beta Software Alongside the Latest Public Release of macOS](#presentation-experience-new-macos-beta-software-with-confidence-dual-boot-macos-and-run-beta-software-alongside-the-latest-public-release-of-macos-2025)
@@ -8953,10 +8979,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [In This TekTalk Presentation, Ron Miller Will Present Some Tips on Reading Electronic Books](#presentation-in-this-tektalk-presentation-ron-miller-will-present-some-tips-on-reading-electronic-books-2025)
 - [Inappropriate Nesting of Heading Tags in PDF Remediation](#presentation-inappropriate-nesting-of-heading-tags-in-pdf-remediation-2025)
 - [iPhone 16e First Look: Unboxing, Setup, and Initial Impressions](#presentation-iphone-16e-first-look-unboxing-setup-and-initial-impressions-2025)
-- [A Look into Alfred for Mac: Part 1 Overview of Alfred's Features and Functionalities](#presentation-a-look-into-alfred-for-mac-part-1-overview-of-alfred-s-features-and-functionalities-2025)
-- [A Look into Alfred for Mac: Part 2 Guide to the Settings Window and Overall Settings](#presentation-a-look-into-alfred-for-mac-part-2-guide-to-the-settings-window-and-overall-settings-2025)
-- [A Look into Alfred for Mac: Part 3 How to Clear the Trash, Reboot the Computer, and Perform Other Tasks Using Alfred Keywords](#presentation-a-look-into-alfred-for-mac-part-3-how-to-clear-the-trash-reboot-the-computer-and-perform-other-tasks-using-alfred-keywords-2025)
-- [A Look into Alfred for Mac: Part 4 Power User Tips for System Control & Clipboard Magic](#presentation-a-look-into-alfred-for-mac-part-4-power-user-tips-for-system-control-clipboard-magic-2025)
 - [Making Educational Technology Accessible for All Students](#presentation-making-educational-technology-accessible-for-all-students-2025)
 - [March 2025 program on Book Navigation](#presentation-march-2025-program-on-book-navigation-2025)
 - [Microsoft Word Accessibility \| 2025 Updates](#presentation-microsoft-word-accessibility-2025-updates-2025)
@@ -8974,20 +8996,25 @@ Instructional technology and accessibility presentations that meet the directory
 - [Six Essential Tips for Improving Your Gmail Experience with JAWS](#presentation-six-essential-tips-for-improving-your-gmail-experience-with-jaws-2025)
 - [Smarter Battery Saving with iOS Adaptive Power](#presentation-smarter-battery-saving-with-ios-adaptive-power-2025)
 - [Speed up Your Typing and Your Emoji Game with Text Replacements on iOS, iPadOS, and macOS](#presentation-speed-up-your-typing-and-your-emoji-game-with-text-replacements-on-ios-ipados-and-macos-2025)
+- [Starting an Accessibility Journey: 5 Easy Tips](#presentation-starting-an-accessibility-journey-5-easy-tips-2019)
 - [Starting Fresh: How to Reset VoiceOver Settings on iOS](#presentation-starting-fresh-how-to-reset-voiceover-settings-on-ios-2025)
 - [Taming the Magic Tap: Stop Accidental Media Playback on iOS](#presentation-taming-the-magic-tap-stop-accidental-media-playback-on-ios-2025)
 - [Tech That Helps Webinar 25 June 2025](#presentation-tech-that-helps-webinar-25-june-2025-2025)
 - [Technology Accessibility Training](#presentation-technology-accessibility-training-2025)
 - [Tek Talk Welcomes David Kingsbury, an Assistive Technology Instructor at the Carroll Center for the Blind, to Discuss His New Book the Fourth Edition of the Windows Screen Reader Primer: All the Basics and More](#presentation-tek-talk-welcomes-david-kingsbury-an-assistive-technology-instructor-at-the-carroll-center-for-the-blind-to-discuss-his-new-book-the-fourth-edition-of-the-windows-screen-reader-primer-all-the-basics-and-more-2025)
+- [Tek Talk Welcomes J.J. Meddaugh of a. T. Guys to Discuss the Hable Easy and Hable One](#presentation-tek-talk-welcomes-j-j-meddaugh-of-a-t-guys-to-discuss-the-hable-easy-and-hable-one-2025)
 - [Tek Talk Welcomes Jeff Bishop to Discuss How to Demystify the Clutter of Microsoft Edge](#presentation-tek-talk-welcomes-jeff-bishop-to-discuss-how-to-demystify-the-clutter-of-microsoft-edge-2025)
 - [Tek Talk Welcomes Jeff Bishop to Discuss Reminders and Calendaring Using Assistive Technology](#presentation-tek-talk-welcomes-jeff-bishop-to-discuss-reminders-and-calendaring-using-assistive-technology-2025)
-- [Tek Talk Welcomes J.J. Meddaugh of a. T. Guys to Discuss the Hable Easy and Hable One](#presentation-tek-talk-welcomes-j-j-meddaugh-of-a-t-guys-to-discuss-the-hable-easy-and-hable-one-2025)
 - [Tek Talk Welcomes Michael Feir to Discuss the Third Edition of His Book Personal Power for iOS](#presentation-tek-talk-welcomes-michael-feir-to-discuss-the-third-edition-of-his-book-personal-power-for-ios-2025)
 - [Tek Talk Welcomes Our Audience to Discuss AI and the Blindness Community](#presentation-tek-talk-welcomes-our-audience-to-discuss-ai-and-the-blindness-community-2025)
 - [Tek Talk Welcomes Quentin Christensen, the NV Access Training and Support Manager, to Discuss the Latest Release and Developments of NVDA](#presentation-tek-talk-welcomes-quentin-christensen-the-nv-access-training-and-support-manager-to-discuss-the-latest-release-and-developments-of-nvda-2025)
 - [Ten Tips for Boosting Productivity When Using Google Sheets with JAWS](#presentation-ten-tips-for-boosting-productivity-when-using-google-sheets-with-jaws-2025)
 - [Ten Tips for Managing Windows 11 with JAWS](#presentation-ten-tips-for-managing-windows-11-with-jaws-2025)
 - [Testing the Reading Order of a PDF](#presentation-testing-the-reading-order-of-a-pdf-2025)
+- [The Alt Media Files \| Accommodations for Students \| Episode 1](#presentation-the-alt-media-files-accommodations-for-students-episode-1-2025)
+- [The Alt Media Files \| Accommodations for Students \| Episode 2](#presentation-the-alt-media-files-accommodations-for-students-episode-2-2025)
+- [The Alt Media Files \| Accommodations for Students \| Episode 3](#presentation-the-alt-media-files-accommodations-for-students-episode-3-2025)
+- [The European Accessibility Act and PDFs](#presentation-the-european-accessibility-act-and-pdfs-2025)
 - [Tidy up Instantly: the Mac Shortcut You Didn't Know You Needed](#presentation-tidy-up-instantly-the-mac-shortcut-you-didn-t-know-you-needed-2025)
 - [Tools You Can Use: BlindShell Classic 3](#presentation-tools-you-can-use-blindshell-classic-3-2025)
 - [Transform PDFs with AI-Powered OCR: Your Guide to PDFgear for Mac](#presentation-transform-pdfs-with-ai-powered-ocr-your-guide-to-pdfgear-for-mac-2025)
@@ -9004,6 +9031,10 @@ Instructional technology and accessibility presentations that meet the directory
 ### 2024
 
 - [5 Tips to Boost Nonprofit Accessibility](#presentation-5-tips-to-boost-nonprofit-accessibility-2024)
+- [A Comprehensive Guide to Foxit Accessibility Features](#presentation-a-comprehensive-guide-to-foxit-accessibility-features-2024)
+- [A Demonstration and Overview of iPhone Mirroring](#presentation-a-demonstration-and-overview-of-iphone-mirroring-2024)
+- [A Demonstration and Walkthrough of VoiceOver Command Customization on macOS](#presentation-a-demonstration-and-walkthrough-of-voiceover-command-customization-on-macos-2024)
+- [Accessible Documents (Part 2: Presentations)](#presentation-accessible-documents-part-2-presentations-2019)
 - [Accessible PDFs Explained: Laws, Regulations, and Navigating the Tags Tree](#presentation-accessible-pdfs-explained-laws-regulations-and-navigating-the-tags-tree-2024)
 - [Adding Alternate Text to Images in Google Slides](#presentation-adding-alternate-text-to-images-in-google-slides-2024)
 - [Are Documents Signed with Adobe Acrobat Sign Accessible?](#presentation-are-documents-signed-with-adobe-acrobat-sign-accessible-2024)
@@ -9016,11 +9047,8 @@ Instructional technology and accessibility presentations that meet the directory
 - [Call Cleanup: Simplifying Your iPhone Call History](#presentation-call-cleanup-simplifying-your-iphone-call-history-2024)
 - [Canva Accessibility: How to Add Alt Text to Images in Canva](#presentation-canva-accessibility-how-to-add-alt-text-to-images-in-canva-2024)
 - [Canva Inaccessibility](#presentation-canva-inaccessibility-2024)
-- [A Comprehensive Guide to Foxit Accessibility Features](#presentation-a-comprehensive-guide-to-foxit-accessibility-features-2024)
 - [Creating Accessible PowerPoint Presentations with ChatGPT-4.0](#presentation-creating-accessible-powerpoint-presentations-with-chatgpt-4-0-2024)
 - [Creating Descriptive URLs and Links \| Section 508 for Word](#presentation-creating-descriptive-urls-and-links-section-508-for-word-2024)
-- [A Demonstration and Overview of iPhone Mirroring](#presentation-a-demonstration-and-overview-of-iphone-mirroring-2024)
-- [A Demonstration and Walkthrough of VoiceOver Command Customization on macOS](#presentation-a-demonstration-and-walkthrough-of-voiceover-command-customization-on-macos-2024)
 - [Disabling In-App Review Requests on iOS](#presentation-disabling-in-app-review-requests-on-ios-2024)
 - [Discover Accessible Technology You Didn't Know You Had. 21-Nov-2024](#presentation-discover-accessible-technology-you-didn-t-know-you-had-21-nov-2024-2024)
 - [Don't Use Alt Text for Screenshots of Tables: Best Practices for Table Accessibility](#presentation-don-t-use-alt-text-for-screenshots-of-tables-best-practices-for-table-accessibility-2024)
@@ -9031,7 +9059,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [Ensuring Color Contrast Compliance in Microsoft Word \| Section 508 for Word](#presentation-ensuring-color-contrast-compliance-in-microsoft-word-section-508-for-word-2024)
 - [Exploring the Latest Feature Additions to the Ray-Ban Meta Smart Glasses](#presentation-exploring-the-latest-feature-additions-to-the-ray-ban-meta-smart-glasses-2024)
 - [From Friendly to Professional: the Power of iOS Writing Tools](#presentation-from-friendly-to-professional-the-power-of-ios-writing-tools-2024)
-- [The Future of Accessibility: Tools for Success in Education and Beyond: Insights from Jesse Anderson](#presentation-the-future-of-accessibility-tools-for-success-in-education-and-beyond-insights-from-jesse-anderson-2024)
 - [Get More Out of Your iPhone: Recording and Transcription on iOS](#presentation-get-more-out-of-your-iphone-recording-and-transcription-on-ios-2024)
 - [Guide to Making Election Documents Accessible](#presentation-guide-to-making-election-documents-accessible-2024)
 - [How and When to Start Your Mac in Safe Mode](#presentation-how-and-when-to-start-your-mac-in-safe-mode-2024)
@@ -9058,12 +9085,12 @@ Instructional technology and accessibility presentations that meet the directory
 - [How to Customize the Lock Screen on iOS](#presentation-how-to-customize-the-lock-screen-on-ios-2024)
 - [How to Disable Predictive Text Suggestions on macOS](#presentation-how-to-disable-predictive-text-suggestions-on-macos-2024)
 - [How to Encrypt an External Disk on macOS](#presentation-how-to-encrypt-an-external-disk-on-macos-2024)
-- [How to Fix 'Document Language Metadata Primary Sub Tag Unknown Error' in PAC 2024](#presentation-how-to-fix-document-language-metadata-primary-sub-tag-unknown-error-in-pac-2024-2024)
 - [How to Fix "Link Annotation Not Nested" Error for WCAG Compliance](#presentation-how-to-fix-link-annotation-not-nested-error-for-wcag-compliance-2024)
-- [How to Fix Missing Alternative Descriptions for Annotations in PDFs \| PAC 2024](#presentation-how-to-fix-missing-alternative-descriptions-for-annotations-in-pdfs-pac-2024-2024)
 - [How to Fix "Path Object Not Tagged" Error \| PAC 2024](#presentation-how-to-fix-path-object-not-tagged-error-pac-2024-2024)
-- [How to Fix Table Header Cell Issues in PDFs \| PAC 2024 Tool](#presentation-how-to-fix-table-header-cell-issues-in-pdfs-pac-2024-tool-2024)
 - [How to Fix "Text Objects Not Tagged" Error in PDFs \| PAC 2024](#presentation-how-to-fix-text-objects-not-tagged-error-in-pdfs-pac-2024-2024)
+- [How to Fix 'Document Language Metadata Primary Sub Tag Unknown Error' in PAC 2024](#presentation-how-to-fix-document-language-metadata-primary-sub-tag-unknown-error-in-pac-2024-2024)
+- [How to Fix Missing Alternative Descriptions for Annotations in PDFs \| PAC 2024](#presentation-how-to-fix-missing-alternative-descriptions-for-annotations-in-pdfs-pac-2024-2024)
+- [How to Fix Table Header Cell Issues in PDFs \| PAC 2024 Tool](#presentation-how-to-fix-table-header-cell-issues-in-pdfs-pac-2024-tool-2024)
 - [How to Fix the Focus Order Error in the PAC 2024 Tool](#presentation-how-to-fix-the-focus-order-error-in-the-pac-2024-tool-2024)
 - [How to Fix the Invalid Use of an LBody Structure Element in PDFs \| PAC Tool](#presentation-how-to-fix-the-invalid-use-of-an-lbody-structure-element-in-pdfs-pac-tool-2024)
 - [How to Fix the Standard Structure Type Is Remapped to Span Error \| PAC 2024](#presentation-how-to-fix-the-standard-structure-type-is-remapped-to-span-error-pac-2024-2024)
@@ -9136,6 +9163,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [Tek Talk Welcomes Ron Miller of Vispero to Discuss Tips for Using the Web](#presentation-tek-talk-welcomes-ron-miller-of-vispero-to-discuss-tips-for-using-the-web-2024)
 - [Tek Talk Welcomes Zhi Huang and Don Olson of NLS BARD to Discuss Playing Audio Books with BARD Express for Windows](#presentation-tek-talk-welcomes-zhi-huang-and-don-olson-of-nls-bard-to-discuss-playing-audio-books-with-bard-express-for-windows-2024)
 - [Testing with Screen Readers, September 2024 Edition](#presentation-testing-with-screen-readers-september-2024-edition-2024)
+- [The Future of Accessibility: Tools for Success in Education and Beyond: Insights from Jesse Anderson](#presentation-the-future-of-accessibility-tools-for-success-in-education-and-beyond-insights-from-jesse-anderson-2024)
 - [Transform Your Note-Taking with Otter AI: a Comprehensive Guide](#presentation-transform-your-note-taking-with-otter-ai-a-comprehensive-guide-2024)
 - [Transforming Text to Speech: Inside ElevenLabs Reader for iOS](#presentation-transforming-text-to-speech-inside-elevenlabs-reader-for-ios-2024)
 - [Using BARD on Advanced Search with the catalog](#presentation-using-bard-on-advanced-search-with-the-catalog-2024)
@@ -9157,6 +9185,11 @@ Instructional technology and accessibility presentations that meet the directory
 
 ### 2023
 
+- [5 Things YOU can do NOW to Make Web Content More Accessible](#presentation-5-things-you-can-do-now-to-make-web-content-more-accessible-2019)
+- [A Comprehensive Demonstration of the Be My Eyes Virtual Volunteer, and Chat GPT Pontificates on the Pros and Cons of Being Blind (Episode 222)](#presentation-a-comprehensive-demonstration-of-the-be-my-eyes-virtual-volunteer-and-chat-gpt-pontificates-on-the-pros-and-cons-of-being-blind-episode-222-2023)
+- [A Demonstration and Walkthrough of macOS Recovery](#presentation-a-demonstration-and-walkthrough-of-macos-recovery-2023)
+- [A Demonstration and Walkthrough of Safari Web Apps on macOS](#presentation-a-demonstration-and-walkthrough-of-safari-web-apps-on-macos-2023)
+- [A Demonstration of Cisco Packet Tracer for Mac, a Powerful Network Simulation Tool](#presentation-a-demonstration-of-cisco-packet-tracer-for-mac-a-powerful-network-simulation-tool-2023)
 - [Accessible Audio Post-Production with Auphonic (Episode 32)](#presentation-accessible-audio-post-production-with-auphonic-episode-32-2023)
 - [Accessible Fonts for Section 508 Compliance](#presentation-accessible-fonts-for-section-508-compliance-2023)
 - [Adding Descriptive Captions to Charts and Graphs in Microsoft Word \|section 508 for Word](#presentation-adding-descriptive-captions-to-charts-and-graphs-in-microsoft-word-section-508-for-word-2023)
@@ -9165,7 +9198,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [Alternative Text for Images and Non-text Elements in Microsoft Word \|section 508 for Word](#presentation-alternative-text-for-images-and-non-text-elements-in-microsoft-word-section-508-for-word-2023)
 - [Audient EVO 16 Audio Interface Demonstration (Episode 34)](#presentation-audient-evo-16-audio-interface-demonstration-episode-34-2023)
 - [Canva PDFs Are Not Accessible](#presentation-canva-pdfs-are-not-accessible-2023)
-- [A Comprehensive Demonstration of the Be My Eyes Virtual Volunteer, and Chat GPT Pontificates on the Pros and Cons of Being Blind (Episode 222)](#presentation-a-comprehensive-demonstration-of-the-be-my-eyes-virtual-volunteer-and-chat-gpt-pontificates-on-the-pros-and-cons-of-being-blind-episode-222-2023)
 - [Conquering Canvas with JAWS Beyond the Basics](#presentation-conquering-canvas-with-jaws-beyond-the-basics-2023)
 - [Convert a PowerPoint to an Accessible WCAG-Compliant PDF](#presentation-convert-a-powerpoint-to-an-accessible-wcag-compliant-pdf-2023)
 - [Converting PNG Images to Editable Documents with Abbyy FineReader 16](#presentation-converting-png-images-to-editable-documents-with-abbyy-finereader-16-2023)
@@ -9175,9 +9207,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [Creating Accessible Forms in Microsoft Word: a Step-by-Step Guide](#presentation-creating-accessible-forms-in-microsoft-word-a-step-by-step-guide-2023)
 - [Creating Accessible PDF Forms: a Comprehensive Guide](#presentation-creating-accessible-pdf-forms-a-comprehensive-guide-2023)
 - [Creating an Accessible PowerPoint: Step-by-Step Guide](#presentation-creating-an-accessible-powerpoint-step-by-step-guide-2023)
-- [A Demonstration and Walkthrough of macOS Recovery](#presentation-a-demonstration-and-walkthrough-of-macos-recovery-2023)
-- [A Demonstration and Walkthrough of Safari Web Apps on macOS](#presentation-a-demonstration-and-walkthrough-of-safari-web-apps-on-macos-2023)
-- [A Demonstration of Cisco Packet Tracer for Mac, a Powerful Network Simulation Tool](#presentation-a-demonstration-of-cisco-packet-tracer-for-mac-a-powerful-network-simulation-tool-2023)
 - [Describing Photos with Microsoft Bing for iOS](#presentation-describing-photos-with-microsoft-bing-for-ios-2023)
 - [Enhancing Accessibility with AI: a Tutorial on Otter AI and GPT-4 Integration](#presentation-enhancing-accessibility-with-ai-a-tutorial-on-otter-ai-and-gpt-4-integration-2023)
 - [Enhancing PDF Accessibility: Implementing Alternate Text](#presentation-enhancing-pdf-accessibility-implementing-alternate-text-2023)
@@ -9235,8 +9264,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [Learning Logic Pro X: Unlocking the Power of EQ](#presentation-learning-logic-pro-x-unlocking-the-power-of-eq-2023)
 - [Learning Logic Pro X: Using Reverb](#presentation-learning-logic-pro-x-using-reverb-2023)
 - [Learning Logic Pro X: Virtual Instruments](#presentation-learning-logic-pro-x-virtual-instruments-2023)
-- [The Luminato Festival Is Back with Christine Malec Providing All the Details -- Starting June 7! Plus, Podcasts for a Comprehensive Understanding of Art Literacy for Blind and Visually Impaired Individuals! Available Now.](#presentation-the-luminato-festival-is-back-with-christine-malec-providing-all-the-details-starting-june-7-plus-podcasts-for-a-comprehensive-understanding-of-art-literacy-for-blind-and-visually-impaired-individuals-available-now-2023)
-- [The Make Accessible Action Wizard](#presentation-the-make-accessible-action-wizard-2023)
 - [Making a PDF Accessible: Episode 02 \| Oxnard Community College](#presentation-making-a-pdf-accessible-episode-02-oxnard-community-college-2023)
 - [Making a PDF Accessible: Episode 03\| Moorpark Community College](#presentation-making-a-pdf-accessible-episode-03-moorpark-community-college-2023)
 - [Making a PDF Accessible: Episode 4 \|glendale College](#presentation-making-a-pdf-accessible-episode-4-glendale-college-2023)
@@ -9250,7 +9277,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [Mastering Split and Extract Features in Abbyy FineReader PDF](#presentation-mastering-split-and-extract-features-in-abbyy-finereader-pdf-2023)
 - [Microsoft Word for Beginners](#presentation-microsoft-word-for-beginners-2023)
 - [Navigate with Cameras and Confidence with the new StellarTrek](#presentation-navigate-with-cameras-and-confidence-with-the-new-stellartrek-2023)
-- [The PAC 2024 Tool: a Step-by-Step Guide](#presentation-the-pac-2024-tool-a-step-by-step-guide-2023)
 - [PDF Extraction with Adobe Acrobat (New): a Step-by-Step Guide](#presentation-pdf-extraction-with-adobe-acrobat-new-a-step-by-step-guide-2023)
 - [Possible Inappropriate Use of a Figure Structure Element \| PAC 2021 \| PDF UA Compliance](#presentation-possible-inappropriate-use-of-a-figure-structure-element-pac-2021-pdf-ua-compliance-2023)
 - [Privacy Unlocked: Advanced Tracking and Fingerprinting Protection for iOS](#presentation-privacy-unlocked-advanced-tracking-and-fingerprinting-protection-for-ios-2023)
@@ -9264,6 +9290,9 @@ Instructional technology and accessibility presentations that meet the directory
 - [Table Header Cell Has No Associated Sub Cells](#presentation-table-header-cell-has-no-associated-sub-cells-2023)
 - [Table of Contents in Word for Accessibility -- Create in 4 Easy Steps](#presentation-table-of-contents-in-word-for-accessibility-create-in-4-easy-steps-2023)
 - [Tackling the OCCD Key Error in PAC 2021 for PDF/UA Compliance](#presentation-tackling-the-occd-key-error-in-pac-2021-for-pdf-ua-compliance-2023)
+- [The Luminato Festival Is Back with Christine Malec Providing All the Details -- Starting June 7! Plus, Podcasts for a Comprehensive Understanding of Art Literacy for Blind and Visually Impaired Individuals! Available Now.](#presentation-the-luminato-festival-is-back-with-christine-malec-providing-all-the-details-starting-june-7-plus-podcasts-for-a-comprehensive-understanding-of-art-literacy-for-blind-and-visually-impaired-individuals-available-now-2023)
+- [The Make Accessible Action Wizard](#presentation-the-make-accessible-action-wizard-2023)
+- [The PAC 2024 Tool: a Step-by-Step Guide](#presentation-the-pac-2024-tool-a-step-by-step-guide-2023)
 - [Toggle Between Adobe Acrobat Versions: a Simple Guide](#presentation-toggle-between-adobe-acrobat-versions-a-simple-guide-2023)
 - [Tools for Testing Color Contrast Ratios](#presentation-tools-for-testing-color-contrast-ratios-2023)
 - [Transcribe a Video with Otter AI](#presentation-transcribe-a-video-with-otter-ai-2023)
@@ -9273,9 +9302,14 @@ Instructional technology and accessibility presentations that meet the directory
 
 ### 2022
 
+- [A Comprehensive Demonstration and Review of the Envision Smart Glasses (Episode 202)](#presentation-a-comprehensive-demonstration-and-review-of-the-envision-smart-glasses-episode-202-2022)
+- [A Deep Dive into Setting up and Using a Focus on iOS](#presentation-a-deep-dive-into-setting-up-and-using-a-focus-on-ios-2022)
+- [A Demonstration and Walkthrough of the Storage-Management Features of macOS](#presentation-a-demonstration-and-walkthrough-of-the-storage-management-features-of-macos-2022)
+- [A Walkthrough of Mindfulness Bell for iOS](#presentation-a-walkthrough-of-mindfulness-bell-for-ios-2022)
 - [ABLR Works: BVI Training Program for Digital Accessibility Testers -- Meet CEO, Disability Awareness Speaker and Author, John Samuel](#presentation-ablr-works-bvi-training-program-for-digital-accessibility-testers-meet-ceo-disability-awareness-speaker-and-author-john-samuel-2022)
 - [Alternate Text and Decorative Images in PowerPoint](#presentation-alternate-text-and-decorative-images-in-powerpoint-2022)
 - [Alternate Text in Microsoft Word](#presentation-alternate-text-in-microsoft-word-2022)
+- [An Introduction and Overview of Pages for macOS (the 2022 Edition)](#presentation-an-introduction-and-overview-of-pages-for-macos-the-2022-edition-2022)
 - [Blind Abilities, Tech Abilities, Job Insights, iPhone 101, QuickBytes, Success Stories and a Sony Headphone with Noise Reduction, Dual Pairing and Alexa Ready](#presentation-blind-abilities-tech-abilities-job-insights-iphone-101-quickbytes-success-stories-and-a-sony-headphone-with-noise-reduction-dual-pairing-and-alexa-ready-2022)
 - [Braille 2000: Textbook Transcription from Start to Finish - Part 1](#presentation-braille-2000-textbook-transcription-from-start-to-finish-part-1-2022)
 - [Braille 2000: Textbook Transcription from Start to Finish - Part 2](#presentation-braille-2000-textbook-transcription-from-start-to-finish-part-2-2022)
@@ -9283,9 +9317,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [Braille 2000: Textbook Transcription from Start to Finish - Part 4](#presentation-braille-2000-textbook-transcription-from-start-to-finish-part-4-2022)
 - [Braille 2000: Textbook Transcription from Start to Finish - Part 5](#presentation-braille-2000-textbook-transcription-from-start-to-finish-part-5-2022)
 - [Braille 2000: Textbook Transcription from Start to Finish - Part 6](#presentation-braille-2000-textbook-transcription-from-start-to-finish-part-6-2022)
-- [A Comprehensive Demonstration and Review of the Envision Smart Glasses (Episode 202)](#presentation-a-comprehensive-demonstration-and-review-of-the-envision-smart-glasses-episode-202-2022)
-- [A Deep Dive into Setting up and Using a Focus on iOS](#presentation-a-deep-dive-into-setting-up-and-using-a-focus-on-ios-2022)
-- [A Demonstration and Walkthrough of the Storage-Management Features of macOS](#presentation-a-demonstration-and-walkthrough-of-the-storage-management-features-of-macos-2022)
 - [Envision AI; Use Your iPhone's Camera and Artificial Intelligence to Recognize Text, Objects, Products, and More](#presentation-envision-ai-use-your-iphone-s-camera-and-artificial-intelligence-to-recognize-text-objects-products-and-more-2022)
 - [Experience Speaks Loudly -- Kevin Chao Has Months of Experience with the Envision Glasses and the Dot Pad. Tactile Graphics on the Dot Pad Plus Aira on Envision Glasses!](#presentation-experience-speaks-loudly-kevin-chao-has-months-of-experience-with-the-envision-glasses-and-the-dot-pad-tactile-graphics-on-the-dot-pad-plus-aira-on-envision-glasses-2022)
 - [Exploring Technology: Technology 101 - Back to Basics](#presentation-exploring-technology-technology-101-back-to-basics-2022)
@@ -9323,16 +9354,15 @@ Instructional technology and accessibility presentations that meet the directory
 - [Identify Common Errors in Text with the VoiceOver Text Checker on macOS](#presentation-identify-common-errors-in-text-with-the-voiceover-text-checker-on-macos-2022)
 - [If You Could Only Choose One Video Streaming Service, Which One Would You Pick, and a Review and Demonstration of the Spring Twitter App for Apple Devices (Episode 175)](#presentation-if-you-could-only-choose-one-video-streaming-service-which-one-would-you-pick-and-a-review-and-demonstration-of-the-spring-twitter-app-for-apple-devices-episode-175-2022)
 - [In This IPhone101/QuickByte from Blind Abilities , Jeff Thompson Takes Us Through the Punctuation](#presentation-in-this-iphone101-quickbyte-from-blind-abilities-jeff-thompson-takes-us-through-the-punctuation-2022)
-- [An Introduction and Overview of Pages for macOS (the 2022 Edition)](#presentation-an-introduction-and-overview-of-pages-for-macos-the-2022-edition-2022)
 - [iOS 16, Demo and Explanation of Some of Its New Features (Episode 197)](#presentation-ios-16-demo-and-explanation-of-some-of-its-new-features-episode-197-2022)
 - [iPhone101 -- Photos, Links and Documents in the Messages App: No More Fruitless Searching in Apple's Orchard.](#presentation-iphone101-photos-links-and-documents-in-the-messages-app-no-more-fruitless-searching-in-apple-s-orchard-2022)
-- [iPhone101: a Deeper Dive -- Screen Recording on the iPhone and Other iDevices -- It's Not Just for Videos.](#presentation-iphone101-a-deeper-dive-screen-recording-on-the-iphone-and-other-idevices-it-s-not-just-for-videos-2022)
-- [iPhone101: Blocking Callers and Senders of Unwanted Calls, Messages and Emails -- a Deep Dive!](#presentation-iphone101-blocking-callers-and-senders-of-unwanted-calls-messages-and-emails-a-deep-dive-2022)
-- [IPhone101: Emergency SOS by Satellite Has Been Activated! the iPhone 14 Lineup Can Conduct a Demo of the Emergency SOS by Satellite Feature and Here Is a Demo!](#presentation-iphone101-emergency-sos-by-satellite-has-been-activated-the-iphone-14-lineup-can-conduct-a-demo-of-the-emergency-sos-by-satellite-feature-and-here-is-a-demo-2022)
 - [iPhone101 QuickByte: Pinning People and Groups in the Messages App: Organizing Your Favs by Pinning Their Messages to the Top of the List](#presentation-iphone101-quickbyte-pinning-people-and-groups-in-the-messages-app-organizing-your-favs-by-pinning-their-messages-to-the-top-of-the-list-2022)
 - [iPhone101 QuickByte: Revealing and Copying and Pasting Your Password Made Easy](#presentation-iphone101-quickbyte-revealing-and-copying-and-pasting-your-password-made-easy-2022)
 - [iPhone101 QuickByte: Safari Ticking Be Gone! You Won't Miss It!](#presentation-iphone101-quickbyte-safari-ticking-be-gone-you-won-t-miss-it-2022)
 - [iPhone101 QuickByte: Speeding up a YouTube Video Just Like Speeding up an Audio Book, Sort of, Kind Of](#presentation-iphone101-quickbyte-speeding-up-a-youtube-video-just-like-speeding-up-an-audio-book-sort-of-kind-of-2022)
+- [iPhone101: a Deeper Dive -- Screen Recording on the iPhone and Other iDevices -- It's Not Just for Videos.](#presentation-iphone101-a-deeper-dive-screen-recording-on-the-iphone-and-other-idevices-it-s-not-just-for-videos-2022)
+- [iPhone101: Blocking Callers and Senders of Unwanted Calls, Messages and Emails -- a Deep Dive!](#presentation-iphone101-blocking-callers-and-senders-of-unwanted-calls-messages-and-emails-a-deep-dive-2022)
+- [IPhone101: Emergency SOS by Satellite Has Been Activated! the iPhone 14 Lineup Can Conduct a Demo of the Emergency SOS by Satellite Feature and Here Is a Demo!](#presentation-iphone101-emergency-sos-by-satellite-has-been-activated-the-iphone-14-lineup-can-conduct-a-demo-of-the-emergency-sos-by-satellite-feature-and-here-is-a-demo-2022)
 - [iPhone101: Updating Apps Automatically or Take Control of What Apps Update When and Where](#presentation-iphone101-updating-apps-automatically-or-take-control-of-what-apps-update-when-and-where-2022)
 - [Juno Tips & Tricks: Unboxing](#presentation-juno-tips-tricks-unboxing-2022)
 - [Juno Tips and Tricks: Camera](#presentation-juno-tips-and-tricks-camera-2022)
@@ -9361,7 +9391,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [Quick Tip: How to Unsend a Sent iMessage on iOS](#presentation-quick-tip-how-to-unsend-a-sent-imessage-on-ios-2022)
 - [Quick Tip: Recall Email with Undo Send in Mail on iOS](#presentation-quick-tip-recall-email-with-undo-send-in-mail-on-ios-2022)
 - [Quick Tip: Use Low Power Mode on Your Apple Watch to Extend Battery Life](#presentation-quick-tip-use-low-power-mode-on-your-apple-watch-to-extend-battery-life-2022)
-- [The ReVision Fitness App: Let's Change the Way We Look at It! Tyler Merren's New App Is Ready for Your Workout!](#presentation-the-revision-fitness-app-let-s-change-the-way-we-look-at-it-tyler-merren-s-new-app-is-ready-for-your-workout-2022)
 - [RODECaster Pro II Accessibility Walkthrough (Episode 28)](#presentation-rodecaster-pro-ii-accessibility-walkthrough-episode-28-2022)
 - [Scan and OCR a PDF in Adobe Acrobat Pro DC](#presentation-scan-and-ocr-a-pdf-in-adobe-acrobat-pro-dc-2022)
 - [Setting Tones on the BlindShell Classic 2](#presentation-setting-tones-on-the-blindshell-classic-2-2022)
@@ -9371,13 +9400,14 @@ Instructional technology and accessibility presentations that meet the directory
 - [Teach Vision Impaired Youngsters VoiceOver Skills and Concepts with the Ballyland Magic Plus App](#presentation-teach-vision-impaired-youngsters-voiceover-skills-and-concepts-with-the-ballyland-magic-plus-app-2022)
 - [Teaching an Accessible Online Course, July 2022 Edition](#presentation-teaching-an-accessible-online-course-july-2022-edition-2022)
 - [Tech Bootcamps for Microsoft Suite and Google Workspace by Career Launch @ Perkins -- Job Training and Career Services for Blind Adults](#presentation-tech-bootcamps-for-microsoft-suite-and-google-workspace-by-career-launch-perkins-job-training-and-career-services-for-blind-adults-2022)
+- [The ReVision Fitness App: Let's Change the Way We Look at It! Tyler Merren's New App Is Ready for Your Workout!](#presentation-the-revision-fitness-app-let-s-change-the-way-we-look-at-it-tyler-merren-s-new-app-is-ready-for-your-workout-2022)
 - [Training the Trainer: Where to start when teaching JAWS](#presentation-training-the-trainer-where-to-start-when-teaching-jaws-2022)
 - [Unbox Your Code Jumper: Out-of-the-Box Ideas for Getting Started with STEM](#presentation-unbox-your-code-jumper-out-of-the-box-ideas-for-getting-started-with-stem-2022)
 - [Updated -- iPhone101 QuickByte: Creating and Naming Groups in the Messages App as Simple as That!](#presentation-updated-iphone101-quickbyte-creating-and-naming-groups-in-the-messages-app-as-simple-as-that-2022)
 - [Using a Theme in PowerPoint](#presentation-using-a-theme-in-powerpoint-2022)
 - [Using Super Agent for Safari on iOS](#presentation-using-super-agent-for-safari-on-ios-2022)
-- [A Walkthrough of Mindfulness Bell for iOS](#presentation-a-walkthrough-of-mindfulness-bell-for-ios-2022)
 - [We're with U Coming This Saturday, a Comprehensive Review of Fantastical for iOS, What's Your Favourite Food Delivery Service and Why (Episode 173)](#presentation-we-re-with-u-coming-this-saturday-a-comprehensive-review-of-fantastical-for-ios-what-s-your-favourite-food-delivery-service-and-why-episode-173-2022)
+- [Web Accessibility Tools](#presentation-web-accessibility-tools-2019)
 - [What Are Headings and Why Do I Need Them?](#presentation-what-are-headings-and-why-do-i-need-them-2022)
 - [What Are PDF Tags?](#presentation-what-are-pdf-tags-2022)
 - [What’s new with JAWS, ZoomText and Fusion in 2023?](#presentation-what-s-new-with-jaws-zoomtext-and-fusion-in-2023-2022)
@@ -9385,8 +9415,11 @@ Instructional technology and accessibility presentations that meet the directory
 
 ### 2021
 
+- [(e)Mailing It In: JAWS and Gmail in Standard View](#presentation-e-mailing-it-in-jaws-and-gmail-in-standard-view-2021)
+- [A Demonstration of Using the Eclipse Integrated Development Environment with VoiceOver on macOS](#presentation-a-demonstration-of-using-the-eclipse-integrated-development-environment-with-voiceover-on-macos-2021)
 - [Accessibility for Web Content Authors](#presentation-accessibility-for-web-content-authors-2021)
 - [Accessibility in Web-Based Multimedia](#presentation-accessibility-in-web-based-multimedia-2021)
+- [Alternatives to PDF](#presentation-alternatives-to-pdf-2019)
 - [Apple AirTag; Checking the Current Battery Level and Replacing a Battery](#presentation-apple-airtag-checking-the-current-battery-level-and-replacing-a-battery-2021)
 - [Apple AirTag; Initial Setup](#presentation-apple-airtag-initial-setup-2021)
 - [Apple AirTag; Locating a Lost or Misplaced Item](#presentation-apple-airtag-locating-a-lost-or-misplaced-item-2021)
@@ -9399,10 +9432,8 @@ Instructional technology and accessibility presentations that meet the directory
 - [Collaboration Station: How to Track Changes and Comments with JAWS](#presentation-collaboration-station-how-to-track-changes-and-comments-with-jaws-2021)
 - [Creating More Accessible Social Media](#presentation-creating-more-accessible-social-media-2021)
 - [Data Viz Accessibility](#presentation-data-viz-accessibility-2021)
-- [A Demonstration of Using the Eclipse Integrated Development Environment with VoiceOver on macOS](#presentation-a-demonstration-of-using-the-eclipse-integrated-development-environment-with-voiceover-on-macos-2021)
 - [Discover D312U Microphone Headset Demonstration (Episode 9)](#presentation-discover-d312u-microphone-headset-demonstration-episode-9-2021)
 - [Does Braille Formatting Spark Joy?](#presentation-does-braille-formatting-spark-joy-2021)
-- [(e)Mailing It In: JAWS and Gmail in Standard View](#presentation-e-mailing-it-in-jaws-and-gmail-in-standard-view-2021)
 - [Experience Virtuoso, Realistic Tabla Playing with iTablaPro for iOS](#presentation-experience-virtuoso-realistic-tabla-playing-with-itablapro-for-ios-2021)
 - [Explore and Use the Tactile Graphic Image Library](#presentation-explore-and-use-the-tactile-graphic-image-library-2021)
 - [Exploring iLehra, a Lehra / Nagma Player for iOS That Provides Accompaniment for Tabla Solos](#presentation-exploring-ilehra-a-lehra-nagma-player-for-ios-that-provides-accompaniment-for-tabla-solos-2021)
@@ -9445,6 +9476,13 @@ Instructional technology and accessibility presentations that meet the directory
 - [iPhone101 -- Managing Mail Messages and Accounts in iOS: Parts 4 and 5 -- Deleting an Entire Email Account, and Adding and Existing Email Account to Your iDevice](#presentation-iphone101-managing-mail-messages-and-accounts-in-ios-parts-4-and-5-deleting-an-entire-email-account-and-adding-and-existing-email-account-to-your-idevice-2021)
 - [iPhone101 -- More Special Effects for the Messages App in iOS. by the Way, Congratulations, Happy New Year and Happy Birthday!](#presentation-iphone101-more-special-effects-for-the-messages-app-in-ios-by-the-way-congratulations-happy-new-year-and-happy-birthday-2021)
 - [iPhone101 -- Screen Effects: Sending Audio Enhanced Special Screen Effects with the Messages App and Responding with the React Feature to Messages](#presentation-iphone101-screen-effects-sending-audio-enhanced-special-screen-effects-with-the-messages-app-and-responding-with-the-react-feature-to-messages-2021)
+- [Iphone101 QuickByte: a Refreshing Look at the App Store Setting and 2 Refreshing Gestures](#presentation-iphone101-quickbyte-a-refreshing-look-at-the-app-store-setting-and-2-refreshing-gestures-2021)
+- [iPhone101 QuickByte: Adding Locations to the Weather App. How's Your Weather? How About Montreal, Jacksonville and Colorado Springs?](#presentation-iphone101-quickbyte-adding-locations-to-the-weather-app-how-s-your-weather-how-about-montreal-jacksonville-and-colorado-springs-2021)
+- [iPhone101 QuickByte: Pronunciation -- Let Your VoiceOver Voices Pronounce Words and Names the Way You Want Them Pronounced. Is It Aira or Ira? Jeff or Jawff? You Decide.](#presentation-iphone101-quickbyte-pronunciation-let-your-voiceover-voices-pronounce-words-and-names-the-way-you-want-them-pronounced-is-it-aira-or-ira-jeff-or-jawff-you-decide-2021)
+- [iPhone101 QuickByte: Setting a Sleep Focus for a Good Night Sleep for All Concerned, and Siri Announcing All Notifications](#presentation-iphone101-quickbyte-setting-a-sleep-focus-for-a-good-night-sleep-for-all-concerned-and-siri-announcing-all-notifications-2021)
+- [iPhone101 QuickBytes: 6 Quick Bytes for the iPhone, and More! Searching in Settings, Back Tapping Double Tap and Triple Tap, Keyboard Clicks, Lock Sound and System Haptics.](#presentation-iphone101-quickbytes-6-quick-bytes-for-the-iphone-and-more-searching-in-settings-back-tapping-double-tap-and-triple-tap-keyboard-clicks-lock-sound-and-system-haptics-2021)
+- [iPhone101/QuickByte: Get Your Widgets Moving! the Battery Widget Is a Must and You Want It Where? You Want It How Big? OK, Let's Do It!](#presentation-iphone101-quickbyte-get-your-widgets-moving-the-battery-widget-is-a-must-and-you-want-it-where-you-want-it-how-big-ok-let-s-do-it-2021)
+- [iPhone101/QuickByte: MagSafe Battery Pack from Apple: Not the Fastest, nor the Juiciest, It Just Works... and Works Smart!](#presentation-iphone101-quickbyte-magsafe-battery-pack-from-apple-not-the-fastest-nor-the-juiciest-it-just-works-and-works-smart-2021)
 - [iPhone101: Emoji in Text Replacement Made Easy. Yes, Double Demo Day!](#presentation-iphone101-emoji-in-text-replacement-made-easy-yes-double-demo-day-2021)
 - [iPhone101: Getting Your Home Screens Organized -- Part 1](#presentation-iphone101-getting-your-home-screens-organized-part-1-2021)
 - [iPhone101: Linking Contacts in iOS](#presentation-iphone101-linking-contacts-in-ios-2021)
@@ -9452,17 +9490,10 @@ Instructional technology and accessibility presentations that meet the directory
 - [iPhone101: Low Data Usage -- Conserving Your Data Usage on Video and Streaming Services](#presentation-iphone101-low-data-usage-conserving-your-data-usage-on-video-and-streaming-services-2021)
 - [iPhone101: Music Recognition and Shazam -- Hey! Who Sings This? What Song Is This? a Variety of Ways to Use Music Recognition and That Magical App Shazam](#presentation-iphone101-music-recognition-and-shazam-hey-who-sings-this-what-song-is-this-a-variety-of-ways-to-use-music-recognition-and-that-magical-app-shazam-2021)
 - [iPhone101: Period Shortcut and Auto Cap Shortcut](#presentation-iphone101-period-shortcut-and-auto-cap-shortcut-2021)
-- [Iphone101 QuickByte: a Refreshing Look at the App Store Setting and 2 Refreshing Gestures](#presentation-iphone101-quickbyte-a-refreshing-look-at-the-app-store-setting-and-2-refreshing-gestures-2021)
-- [iPhone101 QuickByte: Adding Locations to the Weather App. How's Your Weather? How About Montreal, Jacksonville and Colorado Springs?](#presentation-iphone101-quickbyte-adding-locations-to-the-weather-app-how-s-your-weather-how-about-montreal-jacksonville-and-colorado-springs-2021)
-- [iPhone101 QuickByte: Pronunciation -- Let Your VoiceOver Voices Pronounce Words and Names the Way You Want Them Pronounced. Is It Aira or Ira? Jeff or Jawff? You Decide.](#presentation-iphone101-quickbyte-pronunciation-let-your-voiceover-voices-pronounce-words-and-names-the-way-you-want-them-pronounced-is-it-aira-or-ira-jeff-or-jawff-you-decide-2021)
-- [iPhone101 QuickByte: Setting a Sleep Focus for a Good Night Sleep for All Concerned, and Siri Announcing All Notifications](#presentation-iphone101-quickbyte-setting-a-sleep-focus-for-a-good-night-sleep-for-all-concerned-and-siri-announcing-all-notifications-2021)
-- [iPhone101 QuickBytes: 6 Quick Bytes for the iPhone, and More! Searching in Settings, Back Tapping Double Tap and Triple Tap, Keyboard Clicks, Lock Sound and System Haptics.](#presentation-iphone101-quickbytes-6-quick-bytes-for-the-iphone-and-more-searching-in-settings-back-tapping-double-tap-and-triple-tap-keyboard-clicks-lock-sound-and-system-haptics-2021)
 - [iPhone101: Screen Recordings and Screen Shots -- Setting up, Creating, Taking and Sharing with Siri and Voiceover Accessibility](#presentation-iphone101-screen-recordings-and-screen-shots-setting-up-creating-taking-and-sharing-with-siri-and-voiceover-accessibility-2021)
 - [iPhone101: Sharing a Contact and Eliminating the List of Recommended Recipients from the Share Sheet](#presentation-iphone101-sharing-a-contact-and-eliminating-the-list-of-recommended-recipients-from-the-share-sheet-2021)
 - [iPhone101: Voice Memos -- Not Your Basic Recorder Anymore. Enhanced, Concise, Speedy and Voiceover Ready, Right There in Your Device!](#presentation-iphone101-voice-memos-not-your-basic-recorder-anymore-enhanced-concise-speedy-and-voiceover-ready-right-there-in-your-device-2021)
 - [iPhone101: VoiceOver Recognition -- Image Descriptions, Screen Recognition, Text Recognition, and Using the Rotor and Setting up Quick Settings.](#presentation-iphone101-voiceover-recognition-image-descriptions-screen-recognition-text-recognition-and-using-the-rotor-and-setting-up-quick-settings-2021)
-- [iPhone101/QuickByte: Get Your Widgets Moving! the Battery Widget Is a Must and You Want It Where? You Want It How Big? OK, Let's Do It!](#presentation-iphone101-quickbyte-get-your-widgets-moving-the-battery-widget-is-a-must-and-you-want-it-where-you-want-it-how-big-ok-let-s-do-it-2021)
-- [iPhone101/QuickByte: MagSafe Battery Pack from Apple: Not the Fastest, nor the Juiciest, It Just Works... and Works Smart!](#presentation-iphone101-quickbyte-magsafe-battery-pack-from-apple-not-the-fastest-nor-the-juiciest-it-just-works-and-works-smart-2021)
 - [JAWS and Citation Styles: Did someone say citation styles?](#presentation-jaws-and-citation-styles-did-someone-say-citation-styles-2021)
 - [JAWS and Text Analyzer: Do You What I Hear?](#presentation-jaws-and-text-analyzer-do-you-what-i-hear-2021)
 - [JAWS Settings Center](#presentation-jaws-settings-center-2021)
@@ -9592,15 +9623,10 @@ Instructional technology and accessibility presentations that meet the directory
 
 ### 2019
 
-- [5 Things YOU can do NOW to Make Web Content More Accessible](#presentation-5-things-you-can-do-now-to-make-web-content-more-accessible-2019)
-- [Accessible Documents (Part 2: Presentations)](#presentation-accessible-documents-part-2-presentations-2019)
-- [Alternatives to PDF](#presentation-alternatives-to-pdf-2019)
 - [AudioWizards -- an Accessible Audible Game from myTrueSound: an Audiotastic Journey Available on the App Store and on the Google Play Store!](#presentation-audiowizards-an-accessible-audible-game-from-mytruesound-an-audiotastic-journey-available-on-the-app-store-and-on-the-google-play-store-2019)
 - [BARD -- Braille and Audio Reading Download from the National Library Services (NLS): Free Downloadable Books and Magazines](#presentation-bard-braille-and-audio-reading-download-from-the-national-library-services-nls-free-downloadable-books-and-magazines-2019)
 - [Basic Web Accessibility Testing on the Cheap](#presentation-basic-web-accessibility-testing-on-the-cheap-2019)
-- [Creating Accessible Documents and Slides: Microsoft, Google, and Canva](#presentation-creating-accessible-documents-and-slides-microsoft-google-and-canva-2019)
 - [Demo of the Xfinity X1 Set Top Box with Voice Guidance -- Join Simon and Comcast's Vice President of Accessibility, Tom Wlodkowski at the Comcast Accessibility Lab.](#presentation-demo-of-the-xfinity-x1-set-top-box-with-voice-guidance-join-simon-and-comcast-s-vice-president-of-accessibility-tom-wlodkowski-at-the-comcast-accessibility-lab-2019)
-- [DubBot Web Accessibility Training](#presentation-dubbot-web-accessibility-training-2019)
 - [Earn Your Green Thumb in the Plant Nanny for iOS](#presentation-earn-your-green-thumb-in-the-plant-nanny-for-ios-2019)
 - [Enjoy Using Skills and Games with Amazon Alexa for iOS](#presentation-enjoy-using-skills-and-games-with-amazon-alexa-for-ios-2019)
 - [Fast and Accurate Scanning with Voice Dream Scanner for iOS](#presentation-fast-and-accurate-scanning-with-voice-dream-scanner-for-ios-2019)
@@ -9653,7 +9679,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [Quick Tip: How to Delete Your Siri Audio History and Opt Out of Siri Audio Sharing](#presentation-quick-tip-how-to-delete-your-siri-audio-history-and-opt-out-of-siri-audio-sharing-2019)
 - [Quick Tip: Using the New Features in Seeing AI for iOS](#presentation-quick-tip-using-the-new-features-in-seeing-ai-for-ios-2019)
 - [Quick Tip: Using the Text Selection Rotor to Select Text on iOS and iPadOS](#presentation-quick-tip-using-the-text-selection-rotor-to-select-text-on-ios-and-ipados-2019)
-- [Starting an Accessibility Journey: 5 Easy Tips](#presentation-starting-an-accessibility-journey-5-easy-tips-2019)
 - [Take Command in Using Your Voice: OCR Document Reader for iOS](#presentation-take-command-in-using-your-voice-ocr-document-reader-for-ios-2019)
 - [TechAbilities DemoTime! EnvisionAI Packs a Lot of Tools in One App ! OCR, Teachable Object Recognition and Facial Recog, Too! Meet Co-Founder Karthik from Envision.](#presentation-techabilities-demotime-envisionai-packs-a-lot-of-tools-in-one-app-ocr-teachable-object-recognition-and-facial-recog-too-meet-co-founder-karthik-from-envision-2019)
 - [TechAbilities: Samsung's Leak Fest, Galaxy Fold, and We Got Demos on Managing Your Subscriptions, the Reader Feature and Alt Text for Facebook Photos](#presentation-techabilities-samsung-s-leak-fest-galaxy-fold-and-we-got-demos-on-managing-your-subscriptions-the-reader-feature-and-alt-text-for-facebook-photos-2019)
@@ -9668,7 +9693,6 @@ Instructional technology and accessibility presentations that meet the directory
 - [Web Accessibility Perspectives: Text to Speech](#presentation-web-accessibility-perspectives-text-to-speech-2019)
 - [Web Accessibility Perspectives: Understandable Content](#presentation-web-accessibility-perspectives-understandable-content-2019)
 - [Web Accessibility Perspectives: Video Captions](#presentation-web-accessibility-perspectives-video-captions-2019)
-- [Web Accessibility Tools](#presentation-web-accessibility-tools-2019)
 - [Whaaaat? Using Made for iPhone Hearing Aids from a VoiceOver Users Perspe.... Whaaaaat?](#presentation-whaaaat-using-made-for-iphone-hearing-aids-from-a-voiceover-users-perspe-whaaaaat-2019)
 - [World Champion Lex Gillette -- the Journeyman, and Inspiring Young Athlete, Mitch Smedley -- the Apprentice, Talk Olympics, Goals and Having a Vision](#presentation-world-champion-lex-gillette-the-journeyman-and-inspiring-young-athlete-mitch-smedley-the-apprentice-talk-olympics-goals-and-having-a-vision-2019)
 
@@ -11128,18 +11152,18 @@ Instructional technology and accessibility presentations that meet the directory
 
 ### University of Washington
 
-- [5 Things YOU can do NOW to Make Web Content More Accessible (2019)](#presentation-5-things-you-can-do-now-to-make-web-content-more-accessible-2019)
-- [Accessible Documents (Part 2: Presentations) (2019)](#presentation-accessible-documents-part-2-presentations-2019)
-- [Alternatives to PDF (2019)](#presentation-alternatives-to-pdf-2019)
-- [Creating Accessible Documents and Slides: Microsoft, Google, and Canva (2019)](#presentation-creating-accessible-documents-and-slides-microsoft-google-and-canva-2019)
+- [5 Things YOU can do NOW to Make Web Content More Accessible (2023)](#presentation-5-things-you-can-do-now-to-make-web-content-more-accessible-2019)
+- [Accessible Documents (Part 2: Presentations) (2024)](#presentation-accessible-documents-part-2-presentations-2019)
+- [Alternatives to PDF (2021)](#presentation-alternatives-to-pdf-2019)
+- [Creating Accessible Documents and Slides: Microsoft, Google, and Canva (2025)](#presentation-creating-accessible-documents-and-slides-microsoft-google-and-canva-2019)
 - [Data Viz Accessibility (2021)](#presentation-data-viz-accessibility-2021)
-- [DubBot Web Accessibility Training (2019)](#presentation-dubbot-web-accessibility-training-2019)
-- [Starting an Accessibility Journey: 5 Easy Tips (2019)](#presentation-starting-an-accessibility-journey-5-easy-tips-2019)
+- [DubBot Web Accessibility Training (2025)](#presentation-dubbot-web-accessibility-training-2019)
+- [Starting an Accessibility Journey: 5 Easy Tips (2025)](#presentation-starting-an-accessibility-journey-5-easy-tips-2019)
 - [Teaching an Accessible Online Course, July 2022 Edition (2022)](#presentation-teaching-an-accessible-online-course-july-2022-edition-2022)
 - [Testing with Screen Readers, September 2024 Edition (2024)](#presentation-testing-with-screen-readers-september-2024-edition-2024)
 - [Video Accessibility, August 2024 (2024)](#presentation-video-accessibility-august-2024-2024)
 - [Web Accessibility (Accessible University July 2024 edition) (2024)](#presentation-web-accessibility-accessible-university-july-2024-edition-2024)
-- [Web Accessibility Tools (2019)](#presentation-web-accessibility-tools-2019)
+- [Web Accessibility Tools (2022)](#presentation-web-accessibility-tools-2019)
 
 ### U.S. General Services Administration
 
@@ -11243,6 +11267,10 @@ Instructional technology and accessibility presentations that meet the directory
 - [Tek Talk Welcomes Amos Miller, Glidance Founder and CEO, to Discuss and Give Us Updates on Glide, the First Self-guided Mobility Aid Designed to Help Individuals with Sight Loss Navigate the World with Ease (2026)](#presentation-tek-talk-welcomes-amos-miller-glidance-founder-and-ceo-to-discuss-and-give-us-updates-on-glide-the-first-self-guided-mobility-aid-designed-to-help-individuals-with-sight-loss-navigate-the-world-with-ease-2026)
 - [Tek Talk Welcomes Amos Miller, Glidance Founder and CEO, to Discuss Glide, the First Self-guided Mobility Aid Designed to Help Individuals with Sight Loss Navigate the World with Ease (2024)](#presentation-tek-talk-welcomes-amos-miller-glidance-founder-and-ceo-to-discuss-glide-the-first-self-guided-mobility-aid-designed-to-help-individuals-with-sight-loss-navigate-the-world-with-ease-2024)
 
+### Anna Marie Golden
+
+- [5 Things YOU can do NOW to Make Web Content More Accessible (2023)](#presentation-5-things-you-can-do-now-to-make-web-content-more-accessible-2019)
+
 ### CEO Patrick Long of Innosearch AI
 
 - [Tek Talk Welcomes CEO Patrick Long of Innosearch AI to Discuss How It Enables Accessible Online Shopping, Travel Booking, and On-demand Food and Grocery Delivery (2026)](#presentation-tek-talk-welcomes-ceo-patrick-long-of-innosearch-ai-to-discuss-how-it-enables-accessible-online-shopping-travel-booking-and-on-demand-food-and-grocery-delivery-2026)
@@ -11250,6 +11278,10 @@ Instructional technology and accessibility presentations that meet the directory
 ### Damien McMorrow
 
 - [Exploring Technology: Meet the ARx AI Gen 1.5 Headset (Year unknown)](#presentation-exploring-technology-meet-the-arx-ai-gen-1-5-headset-year-unknown)
+
+### Dan Comden, Gaby de Jongh, and Terrill Thompson
+
+- [Alternatives to PDF (2021)](#presentation-alternatives-to-pdf-2019)
 
 ### David Kingsbury, an Assistive Technology Instructor at the Carroll Center for the Blind
 
@@ -11282,6 +11314,22 @@ Instructional technology and accessibility presentations that meet the directory
 - [Use JAWS Quick Navigation Keys to Navigate Web Pages (2025)](#presentation-use-jaws-quick-navigation-keys-to-navigate-web-pages-2025)
 - [Use Track Changes and Comments to Revise Word Documents with JAWS (2026)](#presentation-use-track-changes-and-comments-to-revise-word-documents-with-jaws-2026)
 
+### Gaby de Jongh
+
+- [Accessible Documents (Part 2: Presentations) (2024)](#presentation-accessible-documents-part-2-presentations-2019)
+
+### Gaby de Jongh and Terrill Thompson
+
+- [Video Accessibility, August 2024 (2024)](#presentation-video-accessibility-august-2024-2024)
+
+### Hadi Rangin
+
+- [Testing with Screen Readers, September 2024 Edition (2024)](#presentation-testing-with-screen-readers-september-2024-edition-2024)
+
+### Hadi Rangin, Terrill Thompson, and Kelly Gupton
+
+- [Data Viz Accessibility (2021)](#presentation-data-viz-accessibility-2021)
+
 ### J.J. Meddaugh of A. T. Guys
 
 - [Tek Talk Welcomes J.J. Meddaugh of a. T. Guys to Discuss the Hable Easy and Hable One (2025)](#presentation-tek-talk-welcomes-j-j-meddaugh-of-a-t-guys-to-discuss-the-hable-easy-and-hable-one-2025)
@@ -11309,6 +11357,10 @@ Instructional technology and accessibility presentations that meet the directory
 - [Zoom H6Essential Review and Demonstration (Episode 38) (2024)](#presentation-zoom-h6essential-review-and-demonstration-episode-38-2024)
 - [Zoom PodTrak P4Next Review and Demonstration (Episode 41) (2025)](#presentation-zoom-podtrak-p4next-review-and-demonstration-episode-41-2025)
 
+### Mary-Colleen Jenkins
+
+- [Starting an Accessibility Journey: 5 Easy Tips (2025)](#presentation-starting-an-accessibility-journey-5-easy-tips-2019)
+
 ### Matthew Horspool, General Manager at the Braillists Foundation
 
 - [Tek Talk Welcomes Matthew Horspool, General Manager at the Braillists Foundation, to Discuss Connecting a Braille Display (2024)](#presentation-tek-talk-welcomes-matthew-horspool-general-manager-at-the-braillists-foundation-to-discuss-connecting-a-braille-display-2024)
@@ -11326,6 +11378,10 @@ Instructional technology and accessibility presentations that meet the directory
 
 - [Tek Talk Welcomes Our Audience to Discuss AI and the Blindness Community (2025)](#presentation-tek-talk-welcomes-our-audience-to-discuss-ai-and-the-blindness-community-2025)
 
+### Penny Kronz
+
+- [DubBot Web Accessibility Training (2025)](#presentation-dubbot-web-accessibility-training-2019)
+
 ### Quentin Christensen, the NV Access Training and Support Manager
 
 - [Tek Talk Welcomes Quentin Christensen, the NV Access Training and Support Manager, to Discuss the Latest Release and Developments of NVDA (2025)](#presentation-tek-talk-welcomes-quentin-christensen-the-nv-access-training-and-support-manager-to-discuss-the-latest-release-and-developments-of-nvda-2025)
@@ -11339,6 +11395,22 @@ Instructional technology and accessibility presentations that meet the directory
 ### Shaun Preece
 
 - [Getting Started with Audacity (Episode 5) (2021)](#presentation-getting-started-with-audacity-episode-5-2021)
+
+### Sheryl Burgstahler
+
+- [Teaching an Accessible Online Course, July 2022 Edition (2022)](#presentation-teaching-an-accessible-online-course-july-2022-edition-2022)
+
+### Terrill Thompson
+
+- [Web Accessibility (Accessible University July 2024 edition) (2024)](#presentation-web-accessibility-accessible-university-july-2024-edition-2024)
+
+### Terrill Thompson and Anna Marie Golden
+
+- [Web Accessibility Tools (2022)](#presentation-web-accessibility-tools-2019)
+
+### Terrill Thompson, Gaby de Jongh, and Alaina Foust
+
+- [Creating Accessible Documents and Slides: Microsoft, Google, and Canva (2025)](#presentation-creating-accessible-documents-and-slides-microsoft-google-and-canva-2019)
 
 ### Tim Cumings
 
@@ -11479,7 +11551,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [3D Printing Adaptive Toppers with Xbox Design Lab (Year unknown)](#presentation-3d-printing-adaptive-toppers-with-xbox-design-lab-year-unknown)
 - [4 Ways to Tag a PDF Using Adobe Acrobat Pro DC (2025)](#presentation-4-ways-to-tag-a-pdf-using-adobe-acrobat-pro-dc-2025)
 - [5 PDF Accessibility Pro Tips \| Adobe Acrobat (2025)](#presentation-5-pdf-accessibility-pro-tips-adobe-acrobat-2025)
-- [5 Things YOU can do NOW to Make Web Content More Accessible (2019)](#presentation-5-things-you-can-do-now-to-make-web-content-more-accessible-2019)
+- [5 Things YOU can do NOW to Make Web Content More Accessible (2023)](#presentation-5-things-you-can-do-now-to-make-web-content-more-accessible-2019)
 - [5 Tips to Boost Nonprofit Accessibility (2024)](#presentation-5-tips-to-boost-nonprofit-accessibility-2024)
 - [82 Years Since 1st Stereo Recording and a SoundForge on the Mac Demo (2016)](#presentation-82-years-since-1st-stereo-recording-and-a-soundforge-on-the-mac-demo-2016)
 - [ABLR Works: BVI Training Program for Digital Accessibility Testers -- Meet CEO, Disability Awareness Speaker and Author, John Samuel (2022)](#presentation-ablr-works-bvi-training-program-for-digital-accessibility-testers-meet-ceo-disability-awareness-speaker-and-author-john-samuel-2022)
@@ -11497,7 +11569,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [Accessible Design is Good Design -- At a Glance (Year unknown)](#presentation-accessible-design-is-good-design-at-a-glance-year-unknown)
 - [Accessible Design is Good Design (Part 2) -- At a Glance (Year unknown)](#presentation-accessible-design-is-good-design-part-2-at-a-glance-year-unknown)
 - [Accessible Design is Good Design (Part 3) -- At a Glance (Year unknown)](#presentation-accessible-design-is-good-design-part-3-at-a-glance-year-unknown)
-- [Accessible Documents (Part 2: Presentations) (2019)](#presentation-accessible-documents-part-2-presentations-2019)
+- [Accessible Documents (Part 2: Presentations) (2024)](#presentation-accessible-documents-part-2-presentations-2019)
 - [Accessible Fonts for Section 508 Compliance (2023)](#presentation-accessible-fonts-for-section-508-compliance-2023)
 - [Accessible Lists and Tables in PDF (2020)](#presentation-accessible-lists-and-tables-in-pdf-2020)
 - [Accessible PDF Forms (2020)](#presentation-accessible-pdf-forms-2020)
@@ -11523,7 +11595,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [Alternate Text and Decorative Images in PowerPoint (2022)](#presentation-alternate-text-and-decorative-images-in-powerpoint-2022)
 - [Alternate Text in Microsoft Word (2022)](#presentation-alternate-text-in-microsoft-word-2022)
 - [Alternative Text for Images and Non-text Elements in Microsoft Word \|section 508 for Word (2023)](#presentation-alternative-text-for-images-and-non-text-elements-in-microsoft-word-section-508-for-word-2023)
-- [Alternatives to PDF (2019)](#presentation-alternatives-to-pdf-2019)
+- [Alternatives to PDF (2021)](#presentation-alternatives-to-pdf-2019)
 - [AmadeusPro: Part 4 -- the Process of Creating a Podcast (2016)](#presentation-amadeuspro-part-4-the-process-of-creating-a-podcast-2016)
 - [Amazon's Peter Korn, Director of Accessibility, Gives Us a Demo of the Toshiba Fire TV and Amazon's Fire Cube. #NFB18 (2018)](#presentation-amazon-s-peter-korn-director-of-accessibility-gives-us-a-demo-of-the-toshiba-fire-tv-and-amazon-s-fire-cube-nfb18-2018)
 - [Analyzing Data When You Are Blind or Have Low Vision (2025)](#presentation-analyzing-data-when-you-are-blind-or-have-low-vision-2025)
@@ -11623,7 +11695,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [Create Unambiguous Names for Links (Module 7) (Year unknown)](#presentation-create-unambiguous-names-for-links-module-7-year-unknown)
 - [Create Your Own Accessible Smart Home (2025)](#presentation-create-your-own-accessible-smart-home-2025)
 - [Creating a FaceTime Shortcut to Speed up Calling Your Selected Contacts (2023)](#presentation-creating-a-facetime-shortcut-to-speed-up-calling-your-selected-contacts-2023)
-- [Creating Accessible Documents and Slides: Microsoft, Google, and Canva (2019)](#presentation-creating-accessible-documents-and-slides-microsoft-google-and-canva-2019)
+- [Creating Accessible Documents and Slides: Microsoft, Google, and Canva (2025)](#presentation-creating-accessible-documents-and-slides-microsoft-google-and-canva-2019)
 - [Creating Accessible Forms in Microsoft Word: a Step-by-Step Guide (2023)](#presentation-creating-accessible-forms-in-microsoft-word-a-step-by-step-guide-2023)
 - [Creating Accessible Math Content in Canvas LMS (2025)](#presentation-creating-accessible-math-content-in-canvas-lms-2025)
 - [Creating Accessible PDF Forms: a Comprehensive Guide (2023)](#presentation-creating-accessible-pdf-forms-a-comprehensive-guide-2023)
@@ -11677,7 +11749,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [Don't Use Text Boxes in Microsoft Word (2024)](#presentation-don-t-use-text-boxes-in-microsoft-word-2024)
 - [Downloading Digital Books with JAWS (2020)](#presentation-downloading-digital-books-with-jaws-2020)
 - [Drafts 5 for iOS, Quickly Capture Text to Save, Copy, Share or Deep Link into Other Apps and Services (2018)](#presentation-drafts-5-for-ios-quickly-capture-text-to-save-copy-share-or-deep-link-into-other-apps-and-services-2018)
-- [DubBot Web Accessibility Training (2019)](#presentation-dubbot-web-accessibility-training-2019)
+- [DubBot Web Accessibility Training (2025)](#presentation-dubbot-web-accessibility-training-2019)
 - [Duplicate Vital Information in Headers, Footers and Watermarks (Module 8) (Year unknown)](#presentation-duplicate-vital-information-in-headers-footers-and-watermarks-module-8-year-unknown)
 - [Duxbury Braille Translator: Getting Good at Editing (2025)](#presentation-duxbury-braille-translator-getting-good-at-editing-2025)
 - [Duxbury Braille Translator: Macros and Math (2025)](#presentation-duxbury-braille-translator-macros-and-math-2025)
@@ -12460,7 +12532,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [Some Apple Slices. Moving Apps, Using Voice Control with VoiceOver, and Reassigning Thumb Keys on the APH Mantis and Similar Braille Displays (Episode 98) (2021)](#presentation-some-apple-slices-moving-apps-using-voice-control-with-voiceover-and-reassigning-thumb-keys-on-the-aph-mantis-and-similar-braille-displays-episode-98-2021)
 - [Speed up Your Typing and Your Emoji Game with Text Replacements on iOS, iPadOS, and macOS (2025)](#presentation-speed-up-your-typing-and-your-emoji-game-with-text-replacements-on-ios-ipados-and-macos-2025)
 - [Spell Checking Using the Misspelled Words Rotor Option with VoiceOver on iOS (2018)](#presentation-spell-checking-using-the-misspelled-words-rotor-option-with-voiceover-on-ios-2018)
-- [Starting an Accessibility Journey: 5 Easy Tips (2019)](#presentation-starting-an-accessibility-journey-5-easy-tips-2019)
+- [Starting an Accessibility Journey: 5 Easy Tips (2025)](#presentation-starting-an-accessibility-journey-5-easy-tips-2019)
 - [Starting Fresh: How to Reset VoiceOver Settings on iOS (2025)](#presentation-starting-fresh-how-to-reset-voiceover-settings-on-ios-2025)
 - [Structure Headings (Module 5) (Year unknown)](#presentation-structure-headings-module-5-year-unknown)
 - [Structure Lists (Module 7) (Year unknown)](#presentation-structure-lists-module-7-year-unknown)
@@ -12599,7 +12671,7 @@ Instructional technology and accessibility presentations that meet the directory
 - [Web Accessibility Perspectives: Text to Speech (2019)](#presentation-web-accessibility-perspectives-text-to-speech-2019)
 - [Web Accessibility Perspectives: Understandable Content (2019)](#presentation-web-accessibility-perspectives-understandable-content-2019)
 - [Web Accessibility Perspectives: Video Captions (2019)](#presentation-web-accessibility-perspectives-video-captions-2019)
-- [Web Accessibility Tools (2019)](#presentation-web-accessibility-tools-2019)
+- [Web Accessibility Tools (2022)](#presentation-web-accessibility-tools-2019)
 - [Welcome to SSB! (2024)](#presentation-welcome-to-ssb-2024)
 - [We're with U Coming This Saturday, a Comprehensive Review of Fantastical for iOS, What's Your Favourite Food Delivery Service and Why (Episode 173) (2022)](#presentation-we-re-with-u-coming-this-saturday-a-comprehensive-review-of-fantastical-for-ios-what-s-your-favourite-food-delivery-service-and-why-episode-173-2022)
 - [Whaaaat? Using Made for iPhone Hearing Aids from a VoiceOver Users Perspe.... Whaaaaat? (2019)](#presentation-whaaaat-using-made-for-iphone-hearing-aids-from-a-voiceover-users-perspe-whaaaaat-2019)
