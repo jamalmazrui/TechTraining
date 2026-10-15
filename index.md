@@ -1,6 +1,9 @@
 ---
 title: Tech Training
 subtitle: "A Directory of 1,167 Free Video and Audio Presentations Teaching Topics on Technology and Access"
+description: "A free directory of audio and video presentations for learning about technology and accessibility, each linking straight to the recording."
+author: "Jamal Mazrui"
+lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
